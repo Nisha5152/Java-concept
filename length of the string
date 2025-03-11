@@ -1,0 +1,10 @@
+package pro1;
+import java.util.*;
+public class Problem2_4 {
+	public static void main(String[] args) {
+		Scanner sc=new Scanner(System.in);
+		String str=s.nextLine();
+		int position=0;
+		int length=str.length();	
+	}
+}
